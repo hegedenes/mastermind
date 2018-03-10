@@ -1,0 +1,102 @@
+body {
+    margin: 0pt;
+    padding: 0pt;
+    font-family: sans-serif;
+    background-color: #FFDCA5;
+    color: #663300;
+}
+.agda {
+    font-size: 14pt;
+    padding: 5pt;
+}
+#maintable {
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    text-align: center;
+    vertical-align: middle;
+}
+#maintitle {
+    width: 230px;
+    font-family: Century Gothic, sans-serif;
+    font-size: 24pt;
+    border-radius: 5px;
+}
+#mainpart {
+    background-color: #B07745;
+    font-family: Century Gothic, sans-serif;
+    font-size: 24pt;
+    border-radius: 10px;
+}
+#mastermind {
+    font-size: 10pt;
+}
+
+.button_num {
+    height: 20pt;
+    width: 20pt;
+    margin: 2pt;
+    font-size: 12pt;
+}
+.button_op {
+    height: 20pt;
+    width: 45pt;
+    margin: 2pt;
+    font-size: 10pt;
+}
+
+#matchtable {
+    width: 26px;
+    height: 26px;
+    border: 1px solid #502705;
+    border-radius: 5px;
+    font-size: 1pt;
+}
+#matchtable tr {
+    width: 50%;
+}
+#matchtable td {
+    width: 50%;
+}
+#hist_matches {
+    width: 30px;
+}
+#black_m {
+    background-color: black;
+    border-radius: 15px;
+}
+#white_m {
+    background-color: white;
+    border-radius: 15px;
+}
+
+#historytable {
+    width: 100%;
+}
+#histval {
+}
+
+#guesstable {
+    width: 100%;
+    border: 1px solid #502705;
+    border-radius: 5px;
+
+    text-align: center;
+    vertical-align: middle;
+}
+.color {
+    width: 26px;
+    height: 26px;
+    border-radius: 13px;
+    color: white;
+}
+.color1 { background-color: #3366FF; }
+.color2 { background-color: #66FF33; }
+.color3 { background-color: #FF3366; }
+.color4 { background-color: #FF6633; }
+.color5 { background-color: #33FFCC; }
+.color6 { background-color: #CC33FF; }
+
+#guess_act {
+}
+
